@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactApexCharts/static/css/main.2922ad1b.css",
+    "main.js": "/ReactApexCharts/static/js/main.acf412a2.js",
+    "static/js/453.80386b3f.chunk.js": "/ReactApexCharts/static/js/453.80386b3f.chunk.js",
+    "index.html": "/ReactApexCharts/index.html",
+    "main.2922ad1b.css.map": "/ReactApexCharts/static/css/main.2922ad1b.css.map",
+    "main.acf412a2.js.map": "/ReactApexCharts/static/js/main.acf412a2.js.map",
+    "453.80386b3f.chunk.js.map": "/ReactApexCharts/static/js/453.80386b3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2922ad1b.css",
+    "static/js/main.acf412a2.js"
+  ]
+}
